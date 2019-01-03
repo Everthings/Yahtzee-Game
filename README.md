@@ -1,5 +1,5 @@
 # Yahtzee-Game
-An intuitive graphics-based game of Yahtzee with a built-in AI. It supports up to 18 players(9 humans, 9 AI).
+An intuitive graphics-based game of Yahtzee with a built-in AI. It supports up to 18 players (9 humans, 9 AI).
 
 ## Installation
 Download the contents above into a new eclipse java project.
